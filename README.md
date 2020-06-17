@@ -1,3 +1,3 @@
 # Responsive Animated CSS Grid Examples
 
-![ScreenShot](https://raw.github.com/{AnderLyws}/{CSS-GRIDS}/{master}/{GRID CSS>PNG})
+![ScreenShot](https://github.com/AnderLyws/CSS-GRIDS/blob/master/GRID%20CSS.PNG)
